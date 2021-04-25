@@ -1,0 +1,1 @@
+# Stock-Market-Analysis is a relatively simple article written and distributed on Linkedin. The accompanying excel file has all data referenced in the writeup, conviniently downloaded and categorized for the reviewer. The "Summary" tab includes all visuals referenced in the writeup as well.     
